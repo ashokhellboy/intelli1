@@ -1,2 +1,2 @@
-new changed done on the master branch
+this is for a merge conflict practice
 bbbbbbbbbbbb
